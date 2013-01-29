@@ -1,4 +1,0 @@
-C-examples
-==========
-
-Test project
